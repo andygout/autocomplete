@@ -41,7 +41,7 @@
 		"@financial-times/o-utils": "^2.1.0"
 	},
 	"dependencies": {
-		"@financial-times/accessible-autocomplete": "github:andygout/accessible-autocomplete#v1.2.0"
+		"accessible-autocomplete": "github:andygout/accessible-autocomplete#v1.2.0"
 	},
 	"private": false
 }

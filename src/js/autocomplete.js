@@ -3,7 +3,7 @@
 // Below are the pull-requests to accessible-autocomplete which would fix the bugs:
 // https://github.com/alphagov/accessible-autocomplete/pull/491
 // If the above pull-requests are merged and published, then we can stop using our fork
-import accessibleAutocomplete from '@financial-times/accessible-autocomplete';
+import accessibleAutocomplete from 'accessible-autocomplete';
 
 /**
  * @typedef CharacterHighlight - The character and whether it should be highlighted

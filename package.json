@@ -29,12 +29,6 @@
 	"engines": {
 		"npm": ">7"
 	},
-	"peerDependencies": {
-		"@financial-times/math": "^1.0.0",
-		"@financial-times/o-brand": "^4.1.0",
-		"@financial-times/o-loading": "^6.0.0",
-		"@financial-times/o-private-foundation": "^1.0.0"
-	},
 	"dependencies": {
 		"accessible-autocomplete": "github:andygout/accessible-autocomplete#v1.2.0"
 	},
